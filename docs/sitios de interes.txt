@@ -9,3 +9,10 @@ https://pmc-ncbi-nlm-nih-gov.translate.goog/articles/PMC11087115/?_x_tr_sl=en&_x
 
 Portal de Ciencias de dato:
 https://cienciadedatos.net/documentos/42_clasificacion_de_tumores_con_machine_learning
+
+Cancer de mama RSF y Deep vs Cox
+https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0482-1
+
+RSF 
+https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Random-survival-forests/10.1214/08-AOAS169.full
+
